@@ -1,4 +1,3 @@
-import sys
 input = input()
 ### ARITHMETIC EXPRESSION ###
 
